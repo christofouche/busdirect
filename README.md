@@ -3,4 +3,4 @@ busdirect
 
 Business Directory Script
 
-Creating a Open Source Business Directory Script
+Creating an Open Source Business Directory Script
